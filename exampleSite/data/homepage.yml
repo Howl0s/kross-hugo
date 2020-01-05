@@ -15,9 +15,9 @@ skill:
   enable: true
   title: Projects
   item:
-  - title: ''
-    progress: ''
-    color: ''
+  - title: Antidotes
+    progress: 35%
+    color: "#9473e6"
   - title: Ecotech inc.
     progress: 75%
     color: "#fdb157"
