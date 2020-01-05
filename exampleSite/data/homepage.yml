@@ -21,15 +21,15 @@ skill:
   - title: The Theta Ecosystem
     progress: 25%
     color: "#fdb157"
-  - title: Ai-perium
-    progress: 65%
-    color: "#bdecf6"
-  - title: Antidotes
-    progress: 25%
-    color: "#9473e6"
   - title: T.A.P.P.A.E
     progress: 10%
     color: "#ffbcaa"
+  - title: Antidotes
+    progress: 25%
+    color: "#9473e6"
+  - title: Ai-perium
+    progress: 65%
+    color: "#bdecf6"
 experience:
   enable: false
   title: Experience
