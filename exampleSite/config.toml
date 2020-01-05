@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "anthonyhowl@caduceuslabs.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/CL-1.png"
+logo = ""
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
