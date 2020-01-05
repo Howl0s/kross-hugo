@@ -19,6 +19,9 @@ team:
   enable: true
   title: Partners
   team_member:
+  - title: John Parker
+    image: ''
+    designation: Mergers and Acqusitions Consultant
   - title: Tyler Piper
     image: images/team/member-1.png
     designation: Managing Director
