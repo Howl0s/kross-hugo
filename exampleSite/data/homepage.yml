@@ -13,10 +13,10 @@ about:
     URL: about
 skill:
   enable: true
-  title: Skills
+  title: Projects
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Ecotech inc.
+    progress: 75%
     color: "#fdb157"
   - title: Logo Design
     progress: 60%
