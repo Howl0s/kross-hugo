@@ -3,11 +3,10 @@ banner:
   title: ''
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: 'A productive space for a multitude of diverse matters. The conduction
+    of scientific / historical research through creative expression. A Think-Tank
+    towards pragmatic solutions in regards to the Environment, Commercial Transactions,
+    and Medicine followed through by execution of fair planning. '
   button:
     enable: true
     label: know more
