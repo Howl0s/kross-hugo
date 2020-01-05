@@ -87,7 +87,7 @@ testimonial:
   title: Quotes
   item:
   - name: Miyashi Miyamoto
-    image: images/
+    image: images/MM.png
     designation: 'Japanese Philosopher '
     content: "<strong>The purpose of today's training is to defeat yesterday's understanding.</strong> "
   - name: Shirley Scot
