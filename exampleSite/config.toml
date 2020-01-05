@@ -2,7 +2,7 @@ baseURL = "https://cl-test.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Caduceus Labs LLC"
 [[menu.main]]
 URL = "about"
 name = "About"
