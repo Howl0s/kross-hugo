@@ -21,18 +21,18 @@ name = "Portfolio"
 weight = 4
 [params]
 address = "125/A, CA Commercial Area, California, USA"
-author = "Anthony Stewart"
+author = "Howl"
 copyright = "Copyrighht &copy; 2020 Caduceus Labs LLC"
 description = "This is meta description"
 email = "anthonyhowl@caduceuslabs.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/CL-2.png"
-phone = "+880 2544 658 256"
+phone = "+1 (619) 658-1577"
 theme_color = "#41228e"
 [params.contact]
-enable = true
-form_action = "#"
+enable = false
+form_action = ""
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
