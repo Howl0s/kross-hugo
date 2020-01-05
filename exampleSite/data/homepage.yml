@@ -15,6 +15,9 @@ skill:
   enable: true
   title: Projects
   item:
+  - title: ''
+    progress: ''
+    color: ''
   - title: Ecotech inc.
     progress: 75%
     color: "#fdb157"
@@ -23,7 +26,7 @@ skill:
     color: "#bdecf6"
   - title: The Theta Ecosystem
     progress: 25%
-    color: "#9473e6"
+    color: "#fdb157"
   - title: T.A.P.P.A.E
     progress: 10%
     color: "#ffbcaa"
