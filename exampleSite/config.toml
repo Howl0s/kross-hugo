@@ -21,7 +21,7 @@ name = "Portfolio"
 weight = 4
 [params]
 address = "125/A, CA Commercial Area, California, USA"
-author = "Howl"
+author = "\"Howl\""
 copyright = "Copyrighht &copy; 2020 Caduceus Labs LLC"
 description = "This is meta description"
 email = "anthonyhowl@caduceuslabs.com"
