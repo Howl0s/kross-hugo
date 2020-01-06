@@ -63,20 +63,6 @@ service:
   enable: true
   title: Services
   item:
-  - title: Product Sourcing
-    icon: ti-package
-    content: "Relationships with over 10,000 manufacturers globally in regards to:
-      General Merchandise, Commodities, Packaged and Raw Food Stuffs, Medical Equipment
-      and Devices have been established. \nLet us consult for you with our competitive
-      pricing and wholesome execution for whatever venture to be pursued.  "
-    highlighted: false
-  - title: 'Real Estate '
-    icon: ti-home
-    content: 'Through an expansive network that has been cultivated for some time,
-      we are able to creatively put deals together and execute in a timely manner.
-      It does not matter If you are an agent, buyer, or seller. We can make something
-      happen as long as it makes sense. '
-    highlighted: true
   - title: Consultation
     icon: ti-vector
     content: 'By having the expansive network Caduceus Labs has situated and cultivated
@@ -84,6 +70,20 @@ service:
       methods within our wheelhouse being creative Financing, M&A, growth hacking,
       Profit / Loss maximization, and disruptive technology integration.   '
     highlighted: false
+  - title: Product Sourcing
+    icon: ti-package
+    content: "Relationships with over 10,000 manufacturers globally in regards to:
+      General Merchandise, Commodities, Packaged and Raw Food Stuffs, Medical Equipment
+      and Devices have been established. \nLet us consult for you with our competitive
+      pricing and wholesome execution for whatever venture to be pursued.  "
+    highlighted: true
+  - title: 'Real Estate '
+    icon: ti-home
+    content: 'Through an expansive network that has been cultivated for some time,
+      we are able to creatively put deals together and execute in a timely manner.
+      It does not matter If you are an agent, buyer, or seller. We can make something
+      happen as long as it makes sense. '
+    highlighted: true
 portfolio:
   enable: false
   title: Portfolio
