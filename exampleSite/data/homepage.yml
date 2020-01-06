@@ -77,10 +77,12 @@ service:
       It does not matter If you are an agent, buyer, or seller. We can make something
       happen as long as it makes sense. '
     highlighted: true
-  - title: Interaction Design
-    icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Consultation
+    icon: ti-vector
+    content: 'By having the expansive network Caduceus Labs has situated and cultivated
+      niche knowledge. We are able to systematically provide solutions that use unorthodox
+      methods within our wheelhouse being creative Financing, M&A, growth hacking,
+      Profit / Loss maximization, and disruptive technology integration.   '
     highlighted: false
 portfolio:
   enable: false
