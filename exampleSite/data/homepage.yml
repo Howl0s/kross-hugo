@@ -18,7 +18,10 @@ skill:
   - title: Ecotech inc.
     progress: 75%
     color: "#fdb157"
-  - title: The Theta Ecosystem
+  - title: Project AGY
+    progress: 65%
+    color: "#bdecf6"
+  - title: Micros Limited
     progress: 25%
     color: "#fdb157"
   - title: T.A.P.P.A.E
@@ -27,9 +30,6 @@ skill:
   - title: Antidotes
     progress: 25%
     color: "#9473e6"
-  - title: Project AGY
-    progress: 65%
-    color: "#bdecf6"
 experience:
   enable: false
   title: Experience
