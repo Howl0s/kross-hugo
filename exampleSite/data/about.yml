@@ -18,15 +18,15 @@ team:
   enable: true
   title: Partners
   team_member:
-  - title: Jan De Vries
-    image: images/avatar3.png
-    designation: Data Scientist
   - title: Tyler Piper
     image: images/avatar2.png
     designation: Managing Director
+  - title: Jan De Vries
+    image: images/avatar3.png
+    designation: Data Scientist
   - title: John Parker
-    image: ''
-    designation: Mergers and Acqusitions Consultant
+    image: images/avatar4.png
+    designation: 'Mergers and Acqusitions '
 clients_logo_slider:
   enable: false
   title: My Clients
