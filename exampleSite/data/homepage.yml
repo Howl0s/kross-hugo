@@ -92,7 +92,7 @@ testimonial:
     content: "<strong>The purpose of today's training is to defeat yesterday's understanding.</strong> "
   - name: Rumi
     image: images/rumi.jpg
-    designation: Persian Philosopher
+    designation: Persian poet, faqih, Islamic scholar, theologian, and Sufi mystic
     content: Yesterday I was clever, so I wanted to change the world. Today I am wise,
       so I am changing myself.
   - name: Manly P. Hall
