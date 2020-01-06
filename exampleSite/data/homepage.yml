@@ -79,10 +79,9 @@ service:
     highlighted: true
   - title: 'Real Estate '
     icon: ti-home
-    content: 'Through an expansive network that has been cultivated for some time,
-      we are able to creatively put deals together and execute in a timely manner.
-      It does not matter If you are an agent, buyer, or seller. We can make something
-      happen as long as it makes sense. '
+    content: We are able to creatively put deals together and execute in a timely
+      manner. It does not matter If you are an agent, buyer, or seller. The numbers
+      making sense is the only concern for us to pursue and finalize a deal.
     highlighted: false
 portfolio:
   enable: false
