@@ -16,7 +16,7 @@ work_process:
       tempor incididunt ut labore et dolore magna aliqua.
 team:
   enable: true
-  title: Partners
+  title: Team
   team_member:
   - title: Tyler Piper
     image: images/avatar2.png
