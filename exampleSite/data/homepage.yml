@@ -86,7 +86,7 @@ testimonial:
   enable: true
   title: Quotes
   item:
-  - name: Miyashi Miyamoto
+  - name: Miyamoto Musashi
     image: images/MM.jpg
     designation: Japanese swordsman, philosopher, strategist, writer and rōnin
     content: "<strong>The purpose of today's training is to defeat yesterday's understanding.</strong> "
