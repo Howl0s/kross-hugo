@@ -2,7 +2,7 @@
 title: About
 date: 2019-05-12T06:14:34.000+00:00
 description: This is meta description.
-author_image: images/about/avatar.png
+author_image: images/avatar.png
 author_signature: images/signaturess.png
 
 ---
