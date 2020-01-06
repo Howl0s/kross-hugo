@@ -83,7 +83,7 @@ service:
       we are able to creatively put deals together and execute in a timely manner.
       It does not matter If you are an agent, buyer, or seller. We can make something
       happen as long as it makes sense. '
-    highlighted: true
+    highlighted: false
 portfolio:
   enable: false
   title: Portfolio
