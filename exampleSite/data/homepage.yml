@@ -88,7 +88,7 @@ testimonial:
   item:
   - name: Miyashi Miyamoto
     image: images/MM.jpg
-    designation: 'Japanese Philosopher '
+    designation: Japanese swordsman, philosopher, strategist, writer and rōnin
     content: "<strong>The purpose of today's training is to defeat yesterday's understanding.</strong> "
   - name: Rumi
     image: images/rumi.jpg
