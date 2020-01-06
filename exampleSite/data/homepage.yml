@@ -113,8 +113,12 @@ testimonial:
       is not to utter words, but to live by them.
   - name: Carl Jung
     image: images/carl.jpg
-    designation: ''
-    content: ''
+    designation: Swiss psychiatrist and psychoanalyst
+    content: Knowing your own darkness is the best method for dealing with the darkness's
+      of other people. One does not become enlightened by imagining figures of light,
+      but by making the darkness conscious. The most terrifying thing is to accept
+      oneself completely. Your visions will become clear only when you can look into
+      your own heart. Who looks outside, dreams; who looks inside, awakes.
 clients_logo_slider:
   enable: false
   item:
