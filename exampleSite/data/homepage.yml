@@ -86,6 +86,10 @@ testimonial:
   enable: true
   title: Quotes
   item:
+  - name: Carl Jung
+    image: images/carl.jpg
+    designation: ''
+    content: ''
   - name: Miyashi Miyamoto
     image: images/MM.jpg
     designation: 'Japanese Philosopher '
