@@ -65,13 +65,12 @@ service:
   item:
   - title: Product Sourcing
     icon: ti-package
-    content: "Relationships with over 10,000 manufacturers globally in regards to:\n1)
-      General Merchandise\n2) Commodities\n3) Packaged and Raw Food Stuffs\n4) Medical
-      Equipment and Devices have been established. \nLet us consult for you with our
-      competitive pricing and wholesome execution for whatever venture to be pursued.
-      \ "
+    content: "Relationships with over 10,000 manufacturers globally in regards to:
+      General Merchandise, Commodities, Packaged and Raw Food Stuffs, Medical Equipment
+      and Devices have been established. \nLet us consult for you with our competitive
+      pricing and wholesome execution for whatever venture to be pursued.  "
     highlighted: false
-  - title: UX Design
+  - title: ''
     icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
