@@ -70,10 +70,12 @@ service:
       and Devices have been established. \nLet us consult for you with our competitive
       pricing and wholesome execution for whatever venture to be pursued.  "
     highlighted: false
-  - title: ''
-    icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - title: 'Real Estate '
+    icon: ti-home
+    content: 'Through an expansive network that has been cultivated for some time,
+      we are able to creatively put deals together and execute in a timely manner.
+      It does not matter If you are an agent, buyer, or seller. We can make something
+      happen as long as it makes sense. '
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
