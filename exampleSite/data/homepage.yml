@@ -86,6 +86,10 @@ testimonial:
   enable: true
   title: Quotes
   item:
+  - name: Manly P. Hall
+    image: ''
+    designation: ''
+    content: ''
   - name: Carl Jung
     image: images/carl.jpg
     designation: ''
