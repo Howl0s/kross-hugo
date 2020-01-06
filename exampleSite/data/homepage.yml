@@ -95,6 +95,14 @@ testimonial:
     image: images/MM.jpg
     designation: Japanese swordsman, philosopher, strategist, writer and rōnin
     content: "<strong>The purpose of today's training is to defeat yesterday's understanding.</strong> "
+  - name: Carl Jung
+    image: images/carl.jpg
+    designation: Swiss psychiatrist and psychoanalyst
+    content: Knowing your own darkness is the best method for dealing with the darkness's
+      of other people. One does not become enlightened by imagining figures of light,
+      but by making the darkness conscious. The most terrifying thing is to accept
+      oneself completely. Your visions will become clear only when you can look into
+      your own heart. Who looks outside, dreams; who looks inside, awakes.
   - name: Rumi
     image: images/rumi.jpg
     designation: Persian poet, faqih, Islamic scholar, theologian, and Sufi mystic
@@ -116,14 +124,6 @@ testimonial:
     designation: President of the USA (1961-1963)
     content: As we express our gratitude, we must never forget that the highest appreciation
       is not to utter words, but to live by them.
-  - name: Carl Jung
-    image: images/carl.jpg
-    designation: Swiss psychiatrist and psychoanalyst
-    content: Knowing your own darkness is the best method for dealing with the darkness's
-      of other people. One does not become enlightened by imagining figures of light,
-      but by making the darkness conscious. The most terrifying thing is to accept
-      oneself completely. Your visions will become clear only when you can look into
-      your own heart. Who looks outside, dreams; who looks inside, awakes.
 clients_logo_slider:
   enable: false
   item:
