@@ -21,15 +21,12 @@ skill:
   - title: Project AGY
     progress: 65%
     color: "#bdecf6"
+  - title: T.A.P.P.A.E
+    progress: 25%
+    color: "#9473e6"
   - title: Micros Limited
     progress: 10%
     color: "#fdb157"
-  - title: T.A.P.P.A.E
-    progress: 10%
-    color: "#ffbcaa"
-  - title: Antidotes
-    progress: 25%
-    color: "#9473e6"
 experience:
   enable: false
   title: Experience
