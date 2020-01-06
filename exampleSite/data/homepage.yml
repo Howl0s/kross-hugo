@@ -80,8 +80,9 @@ service:
   - title: 'Real Estate '
     icon: ti-home
     content: We are able to creatively put deals together and execute in a timely
-      manner. It does not matter If you are an agent, buyer, or seller. The numbers
-      making sense is the only concern for us to pursue and finalize a deal.
+      manner. It does not matter If you are an Investor, agent, buyer, or seller.
+      The numbers making sense is the only concern for us to pursue and finalize a
+      deal.
     highlighted: false
 portfolio:
   enable: false
