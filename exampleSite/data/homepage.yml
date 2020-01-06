@@ -90,8 +90,8 @@ testimonial:
     image: images/MM.jpg
     designation: 'Japanese Philosopher '
     content: "<strong>The purpose of today's training is to defeat yesterday's understanding.</strong> "
-  - name: Shirley Scot
-    image: images/testimonial/client-1.png
+  - name: 'John F. Kennedy '
+    image: images/jfk.jpg
     designation: CEO, Funder
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
