@@ -86,28 +86,35 @@ testimonial:
   enable: true
   title: Quotes
   item:
-  - name: Manly P. Hall
-    image: ''
-    designation: ''
-    content: ''
-  - name: Carl Jung
-    image: images/carl.jpg
-    designation: ''
-    content: ''
   - name: Miyashi Miyamoto
     image: images/MM.jpg
     designation: 'Japanese Philosopher '
     content: "<strong>The purpose of today's training is to defeat yesterday's understanding.</strong> "
-  - name: 'John F. Kennedy '
-    image: images/jfk.jpg
-    designation: President of the USA (1961-1963)
-    content: As we express our gratitude, we must never forget that the highest appreciation
-      is not to utter words, but to live by them.
   - name: Rumi
     image: images/rumi.jpg
     designation: Persian Philosopher
     content: Yesterday I was clever, so I wanted to change the world. Today I am wise,
       so I am changing myself.
+  - name: Manly P. Hall
+    image: ''
+    designation: ''
+    content: Much has been said of the loneliness of wisdom, and how much the Truth
+      seeker becomes a pilgrim wandering from star to star. To the ignorant, the wise
+      man is lonely because he abides in distant heights of the mind. But the wise
+      man himself does not feel lonely. Wisdom brings him nearer to life; closer to
+      the heart of the world than the foolish man can ever be. Bookishness may lead
+      to loneliness, and scholarship may end in a battle of beliefs, but the wise
+      man gazing off into space sees not an emptiness, but a space full of life, truth,
+      and law.
+  - name: 'John F. Kennedy '
+    image: images/jfk.jpg
+    designation: President of the USA (1961-1963)
+    content: As we express our gratitude, we must never forget that the highest appreciation
+      is not to utter words, but to live by them.
+  - name: Carl Jung
+    image: images/carl.jpg
+    designation: ''
+    content: ''
 clients_logo_slider:
   enable: false
   item:
