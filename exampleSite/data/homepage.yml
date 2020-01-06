@@ -92,12 +92,9 @@ testimonial:
     content: "<strong>The purpose of today's training is to defeat yesterday's understanding.</strong> "
   - name: 'John F. Kennedy '
     image: images/jfk.jpg
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
+    designation: President of the USA (1961-1963)
+    content: As we express our gratitude, we must never forget that the highest appreciation
+      is not to utter words, but to live by them.
   - name: Jessica Julie
     image: images/testimonial/client-1.png
     designation: CEO, Funder
